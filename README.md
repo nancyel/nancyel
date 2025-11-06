@@ -1,4 +1,4 @@
-### 👋 Hello there, I'm Nancyㅤ[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnancyel&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### 👋 Hello there, I'm Nancy
 ---- 
 
 **History**
@@ -25,13 +25,8 @@ I like developing web apps with a classic tech stack in my VSCode editor:
 - Backend: NestJS, Database and Cache layers, deployed on various platforms (EC2 instance, Amazon Elastic Beanstalk, ECS, EKS)
 - DevOps: Create a CICD pipeline (GitHub Actions, Jenkins, or AWS CodePipeline) for a seamless deployment process
 
-
-**GitHub Streak**
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=nancyel)](https://git.io/streak-stats)
-
 ---
 
 **Connect with me**
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-00AD9F?style=flat-square&logo=netlify&link=https://summarysofar.com)](https://summarysofar.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/nancylee713/)](https://www.linkedin.com/in/nancylee713/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-00AD9F?style=flat-square&logo=netlify&link=https://nancylee.app)](https://nancylee.app) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/nancylee713/)](https://www.linkedin.com/in/nancylee713/)
